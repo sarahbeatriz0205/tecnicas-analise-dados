@@ -22,7 +22,7 @@
 | Semi-estruturados - JSON, XML |
 | Não estruturados - Imagens, textos |
 
-## Esquema básico de um projeto de Ciência de Dados
+## Esquema básico de um projeto de Ciência de Dados (Pipeline de KDD)
 ```
                 ( Definição do problema )
                           |
@@ -57,3 +57,6 @@
         | Implantação do modelo e geração de valor   |
         +--------------------------------------------+
 ```
+- **Definição do problema:** Entender o que precisa ser resolvido
+- **Coleta de dados:** Identificar e obter acesso aos dados necessários de diversas fontes
+- **Pré-processamento (Data Wrangling):** Limpeza e formatação/conserto de dados, adaptação para um contexto formal, já que os dados do mundo são "sujos"
