@@ -9,6 +9,7 @@
 > Exemplo 02: Detecção de fraudes em transações financeiras - modelos analisam o padrão de compra de um usuário em tempo real e, ao identificar uma compra fora do padrão, bloqueiam preventivamente   
 
 - Algoritmos aprendem com os dados que lhes são fornecidos, aumentando o nível de responsabilidade em sistemas para internet
+- Aprendizado de máquina supervisionado: Aprende com exemplos, padrões
 
 ## Hierarquia DIKW (Data, Information, Knowledge, Wisdom)
 - **Data:** É um registro bruto, sem contexto. Por exemplo, "10" ou "vermelho";
